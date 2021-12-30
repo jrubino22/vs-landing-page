@@ -1,10 +1,24 @@
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, black, blue);
+    background-image: linear-gradient(to right, #3333ff, #6699ff);
     color: white; 
 }
 
 body {
-    background-color: blue;
+    background-color: #283a61;
+    font-family: GothamRounded-Bold;
 }
+
+.buttondiv {
+    margin-top: 16%;
+}
+
+.button-custom {
+    padding: 20px;
+}
+
+.imgBottom {
+    max-height: 100px;
+}
+
